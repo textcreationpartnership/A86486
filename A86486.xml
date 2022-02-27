@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true guide: or, A short treatise wherein is shewed how the weakest Christian may be able to discerne the true way of the spirit of God, from all false and erroneous ways. Very usefull and necessary for weake Christians, that are willing to know and be led in the truth, in these distracted times, wherein so many errours and divisions abound. / By a lover of the truth, R.H. Viewed and approved by diverse worthy ministers of the city of London. Printed according to order.</title>
+            <author>Hollingworth, Richard, 1607-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86486</idno>
+            <idno type="STC">Wing H2499</idno>
+            <idno type="STC">Thomason E344_8</idno>
+            <idno type="STC">Thomason E375_2</idno>
+            <idno type="STC">ESTC R200956</idno>
+            <idno type="EEBO-CITATION">99861566</idno>
+            <idno type="PROQUEST">99861566</idno>
+            <idno type="VID">159786</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159786)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E344[8] or 60:E375[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true guide: or, A short treatise wherein is shewed how the weakest Christian may be able to discerne the true way of the spirit of God, from all false and erroneous ways. Very usefull and necessary for weake Christians, that are willing to know and be led in the truth, in these distracted times, wherein so many errours and divisions abound. / By a lover of the truth, R.H. Viewed and approved by diverse worthy ministers of the city of London. Printed according to order.</title>
+                  <author>Hollingworth, Richard, 1607-1656.</author>
+               </titleStmt>
+               <extent>[6], 2 [i.e. 14] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Shephard, at the signe of the Bible in Tower-Street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.H. = Richard Hollingworth.</note>
+                  <note>Page 14 is misnumbered 2.</note>
+                  <note>Annotation on Thomason copy E.344[8]: "July 10th"; on E.375[2]: "feb: 10th" [1647].</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159786:1"/>
+            <pb facs="tcp:159786:1" rendition="simple:additions"/>
+            <p>THE TRUE GUIDE: OR, A ſhort Treatiſe wherein is ſhewed how the weakeſt Chriſtian may be able to diſcerne the true way of the Spirit of God, from all falſe and erroneous ways.</p>
+            <p>Very uſefull and neceſſary for weake Chriſtians, that are willing to know and be led in the truth, in theſe diſtracted times, wherein ſo many Errours and Diviſions abound.</p>
+            <p>
+               <hi>By a lover of the Truth,</hi> R.H.</p>
+            <p>Viewed and approved by diverſe worthy Miniſters of the City of <hi>LONDON.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 119.128.</hi>
+               </bibl>
+               <p>I eſteemed thy precepts concerning all things to be right, and I hate every falſe way.</p>
+            </q>
+            <p>
+               <hi>Printed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Shephard,</hi> at the ſigne of the Bible in <hi>Tower-Street.</hi> 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:159786:2"/>
+            <pb facs="tcp:159786:2"/>
+            <head>To THE READER.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He cauſes of errour in Religion are many and va<g ref="char:EOLhyphen"/>rious: ſome there are who being poſſeſſed with a giddineſſe of ſpirit, will not reſt ſatisfied with ne<g ref="char:EOLhyphen"/>ceſſary and ſaving truths, others are miſled by En<g ref="char:EOLhyphen"/>thuſiaſms, and their own private ſpirits: Some erre by rea<g ref="char:EOLhyphen"/>ſon of the weakneſſe of their judgements, and not attending to them that can better informe them: but above all, what Chriſt once ſaid to the Jews, was, and ever will be true, <hi>Men erre not knowing the Scripture.</hi>
+            </p>
+            <p>Never was there better opportunity never more plentiful &amp; powerfull means, then at this day (in many places) to acquire ſaving knowledge, and never did private opinion or ſtrange Heterodoxie more prevail. The cuſtome is every where now to contend and quarrel about every part of Divinity, and he is no body that cannot carp at, &amp; wrangle againſt (almoſt) every truth: So that all our Practicall Divinity is turnd into Polemi<g ref="char:EOLhyphen"/>call, &amp; the power of godlines runs out into diſputes, and thoſe
+<pb facs="tcp:159786:3"/>truths which formerly ſeemed moſt Orthodox, plain, and un<g ref="char:EOLhyphen"/>queſtionable, are now by the crotchets of mens brains, ſpun but into ſuch diviſions, and become ſo knotty and prickly that a man knows not where to faſten on them or how to hold them, but he is in danger to prick his fingers with one thorny objecti<g ref="char:EOLhyphen"/>on other.</p>
+            <p>It is therefore high time for all that are the ſincere lovers of peace and truth, and that have any ability to manage Gods Cauſe, to gird up their loines, to put on their Arms, and to ap<g ref="char:EOLhyphen"/>pear in the defence of truth, by word or writing, by conference or calling on the name of God, by one means or other, accor<g ref="char:EOLhyphen"/>ding as occaſions and opportunities invite, leaſt Satans vigi<g ref="char:EOLhyphen"/>lancie reſt in judgement againſt us for our negligence.</p>
+            <p>
+               <hi>There muſt be Hereſies</hi> (ſaith the Apoſtle) <hi>that thoſe which are approved may be made manifeſt among you, 1 Cor. 11.19.</hi> Hence Chriſts caveat, <hi>Mat. 7.15, 16. Beware of falſe Prophets, &amp;c.</hi> And S<hi rend="sup">t</hi>. <hi>John</hi> ſaith, believe not every ſpirit but try the ſpirits whether they be of God, becauſe many falſe Prophets are gone out into the world. <hi>1 Joh. 4.1.</hi> For the Devill is Gods ape, and will counterfeit very cunningly, and therefore where God hath his Church the Devill hath his Chappel, as ſaith the Proverb.</p>
+            <p>Now amongſt all other Hereſies and errors, thoſe ſeem to be moſt dangerous, which are moſt plauſible and pleaſing to fleſh and bloud, if withall they have ſome neer allyance or ſem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lance with ſaving truth, and paſſe under ſpecious titles, for they are like unto ſweet poyſons which are eaſily taken down, or Anodynes which bring men aſleep; and keep them from feeling their miſery, but cannot heal, they remove the pain, but not the diſeaſe, ſuch <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>e the errours that are here encoun<g ref="char:EOLhyphen"/>tered in this ſmall Treatiſe, vented and broach'd under pre<g ref="char:EOLhyphen"/>tence of greater light, and oppoſing the ways of Anti-Chriſt,
+<pb facs="tcp:159786:3"/>and crying down his limbs, advancing Free-grace, ſetting up Chriſt alone &amp;c. ſpecious pretences. Wheras upon due enquiry, it will be found that the authors and abetters of theſe Novall opinions have not received a clearer light, but having forſa<g ref="char:EOLhyphen"/>ken the true light of Gods Word are miſerably miſled by the <hi>Ignis fatuus</hi> of their own brain. And whilſt they would ſeem to exalt Chriſt alone, and magnifie Free-grace, they ſhew themſelves enemies unto grace, and ſtrong abetters of carnall liberty, and ſo whilſt they would ſeem to be the onely Goſpellers, they are indeed apparant Goſpel-ſpillers. And un<g ref="char:EOLhyphen"/>der a pretence of crying down Anti-Chriſt, and eradicating his limbs, they diſable, diſgrace, and (as much as in them lies) labour to root out the moſt faithfull and powerfull Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel, whoſe labours and lives have always ad<g ref="char:EOLhyphen"/>vanced the Kingdom of Chriſt, and as ſo many valiant <hi>Da<g ref="char:EOLhyphen"/>vids,</hi> laid the <hi>Goliah</hi> of <hi>Rome</hi> groveling on the ground, and now ready to expire.</p>
+            <p>The truth of this: this ſmall <hi>Enchiridion</hi> will in part ma<g ref="char:EOLhyphen"/>nifeſt to thoſe that contend for truth, not victory, who are wiſe to ſobriety, not ambitious of contention.</p>
+            <p>All that I crave of thee, Good Reader, is this: Read with<g ref="char:EOLhyphen"/>out prejudice, examine each matter throughly; and judge im<g ref="char:EOLhyphen"/>partially. I ſay no more but prove and approve. and the Lord direct all our hearts into the knowledge and love of the truth. So prayes he that is an unfained lover of peace and truth.</p>
+            <closer>
+               <signed>G. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:159786:4"/>
+            <pb n="1" facs="tcp:159786:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ROM. 8.14.</hi>
+                  </bibl>
+                  <p>For as many as are led by the ſpirit of God, they are the ſons of God.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">F</seg>Or explanation of theſe words we will ſhew:
+<list>
+                  <item>1 What is meant by the Sons of God?</item>
+                  <item>2 What is meant by the Spirit of God?</item>
+                  <item>3 What it is to be lead by the Spirit of God?</item>
+               </list>
+            </p>
+            <p>Firſt, By ſons are meant, ſons of grace, that have received Chriſt by faith, <hi>John</hi> 1.12. <hi>Gal.</hi> 3.26. Yet are all the children of God by faith in Chriſt.</p>
+            <p>Secondly, by the Spirit of God is meant the Holy Ghoſt, the third perſon in Trinity, that ſpirit of truth that leads into-all truth, <hi>John</hi> 16.13. That Spirit that enlightneth, that ſan<g ref="char:EOLhyphen"/>ctifieth, that enableth us in all duties.</p>
+            <p>Thirdly, to be led by the Spirit, is to yield to the motions, rules, directions, and perſuaſions of the ſpirit either inward, or outward and miniſteriall.</p>
+            <p>Now the obſervations from thoſe words might be many:</p>
+            <p>Firſt, that we are naturally blind, and cannot ſee, much leſſe are we able to walk in the ways of God without a Guide o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Leader.</p>
+            <p>Secondly, that there be many falſe guides or leaders, as ſence and carnall reaſon, and nor theſe only, but there are er<g ref="char:EOLhyphen"/>roneous, falſe and ſeducing ſpirits they have been, and now are eſpecially in this laſt age of the World: as is manifeſt in Scri<g ref="char:EOLhyphen"/>pture,
+<pb n="2" facs="tcp:159786:5"/>as in <hi>Mat.</hi> 24.5 Chriſt ſaith, <hi>Many ſhal come in my name, ſaying, I am Chriſt and ſhall deceive many, V.</hi> 11.23, 24. Then if any ſhall ſay unto you, <hi>Lo, here is Chriſt or there, Believe it not: For there ſhall ariſe falſe chriſts and falſe prophets, and ſhall ſhew great ſignes and wonders, inſomuch (that if it were poſſible) they ſhall deceive the very elect: Behold, I have told you before: Wherefore if they ſhall ſay unto you, Behold, he is in the Deſert, go not forth: Behold, he is in the ſecret chambers, believe it not, Ver.</hi> 25, 26. So in 2 <hi>Pet.</hi> 1, 2. As <hi>there were falſe teachers among them: So there ſhall be falſe teachers among you which ſhall bring in damnable hereſies; &amp;c.</hi> and many ſhall follow their pernitious ways, by reaſon of whom the way of truth ſhall be evill ſpoken of, ſo, in 1 <hi>Tim.</hi> 4.1. <hi>The ſpirit ſpeaketh expreſly, that in the later times ſome ſhall depart from the faith; giving heed to ſeducing ſpirits, and doctrines of Devils.</hi> So in 2 <hi>Tim.</hi> 4.3.4. <hi>The time will come when they will not endure ſound do<g ref="char:EOLhyphen"/>ctrine, but after their own luſts, they ſhall heap unto themſelves teachers, having itching eares and they ſhall turn away their, eares front the truth, and ſhall be turned to ſablés.</hi> So <hi>Acts</hi> 20.30. <hi>Of your own ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ves ſhall <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ariſe ſpeaking perverſe things, to draw Diſciples after them.</hi> 1 <hi>Cir.</hi> 11.10. <hi>For their muſt be hereſies among you, that they that are approved may be made manifeſt among you.</hi> So that yee may ſee by theſe and other Scriptures, its manifeſt there be falſe leaders, ſeducing ſpirits now among us: therefore it is good to be carefull by whom we are led: <hi>but as many as are led by ſhe ſpirit of God, they are the ſons of God.</hi>
+            </p>
+            <p>Thirdly, but the thing mainly intended is this: That they and they onely that are the ſons of God, are led by the ſpirit of God: as in this Chapter and 4 Verſes, <hi>Gal.</hi> 5.18. <hi>If yee be be led by the ſpirit of God ye are not under the law, but under grace,</hi> for they only have the promiſe. <hi>Eſay</hi> 30.21. <hi>Thou ſhalt heare a word behind thee ſaying, This is the way walk in it.</hi> So <hi>John</hi> 16.13. <hi>I will ſend you the ſpirit of truth and he ſhall lead you into all truth;</hi> 1 <hi>John</hi> 2. 27. <hi>That anointing ſhall teach you all things &amp;c.</hi>
+            </p>
+            <pb n="3" facs="tcp:159786:5"/>
+            <p>We would all be counted the ſons of God: but who is our guide, what ſpirit are we led by? Now the moſt are led by an erroneous ſpirit, the ſpirit that now worketh in the children of diſobedience, <hi>Epheſ.</hi> 2.2. That old Serpent the Devil, that decei<g ref="char:EOLhyphen"/>veth the whole world, <hi>Revel.</hi> 12.9. &amp; he is called ſomtimes the ſpirit of errour, ſometimes a ſeducing ſpirit, ſomtimes the ſpirit of <hi>Antichriſt,</hi> and ſuch like: but they all proceed from that old ſerpent the Devill. Conſider further what inſtruments theſe ſpirits work by: not only by hypocrites ſuch as can transform themſelves into Angels of light, and the Apoſtles of Chriſt as you may ſee 2 <hi>Cor.</hi> 11.13, 14. but they can through Gods per<g ref="char:EOLhyphen"/>miſſion) make uſe of Gods people, of Prophets, and Apoſtles, the more to ſeduce and deceive others by; and by this meanes they do marvellouſly prevail. So the old Prophet deceived the young Prophet: which all the world before could not remove from the Word of the Lord, till the old Prophet came under the colour of a new light, or revelation from heaven: and thereby hee prevailed with the Prophet, and drew him from the commandement of the Lord: but it coſt the good man his life, as you may ſee, 1 <hi>Kings</hi> 13.18, 24. So Satan makes uſe of <hi>Peter</hi> to tempt Chriſt, <hi>Matth.</hi> 16.22. See how this ſpirit pre<g ref="char:EOLhyphen"/>vailed by <hi>Peters</hi> example to draw many to ſeperate. <hi>Gal.</hi> 2.12. inſomuch that <hi>Barnabas</hi> a man full of the holy Ghoſt was led away with them: even ſo this ſpirit prevails now by the ex<g ref="char:EOLhyphen"/>ample of ſome eminent men to ſeperate from the publike Mi<g ref="char:EOLhyphen"/>niſtery and other Ordinances of God, but as many as are the ſons of God, they are led by the ſpirit of God.</p>
+            <p>Well, you heare what ſpirits and Leaders there be, and what inſtruments they make uſe of, and how they have prevaild, de<g ref="char:EOLhyphen"/>ceived, and miſled many; Loving friends it marvellouſly be<g ref="char:EOLhyphen"/>hoves us to look to our ſelves, and not to believe every ſpirit, but to try the ſpirits whether they be of God or no.</p>
+            <p>Q. <hi>How may one know the ſpirit of truth from the ſpirit of errour.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the fruits of the ſpirit, <hi>Gal.</hi> 5.20. and they are theſe, <hi>love, joy, peace, long-ſuffering, gentleneſſe, goodneſſe, faith,
+<pb n="4" facs="tcp:159786:6"/>meekneſſe, temperance,</hi> now where the ſpirit of God is, there are theſe fruits in ſome meaſure.</p>
+            <p>But if you ſee men given to hatred, variance, emulation wrath, ſtrife, ſedition, hereſies, and envyings, you may know, ſuch are led by the fleſh, the ſpirit that now worketh in the children of diſobedience, therefore be not led by ſuch ſpirits but reject them: <hi>for as many as are the ſons of God, they are led by the ſpirit of God.</hi>
+            </p>
+            <p>But ſeeing the Devill makes uſe not only of Hypocrites but of Gods own people, and that of the moſt eminent in the Church of God, to ſeduce and deceive others by: as we have proved before, then the main queſtion will be.</p>
+            <p>Q. <hi>How we may know the motions or perſwaſions of the ſpi<g ref="char:EOLhyphen"/>rit of God from the m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions or perſwaſions of the ſpirit of Sa<g ref="char:EOLhyphen"/>tan?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. The motions and perſwaſions of the ſpirit of God, are always from the Word of God, or agreeable thereunto, <hi>Ezek.</hi> 36.27. <hi>I will put my ſpirit within you, and will cauſe you to walk in my ſtatutes, &amp;c.</hi> there is ſuch an agreement betwixt them that they are put oft times one for another. What the Word ſpeaks, the Holy Ghoſt ſpeaks, <hi>Heb.</hi> 3.7. <hi>Chap.</hi> 10.15. Wherefore the Holy Ghoſt ſaith, <hi>Today, if you will he are his voice, &amp;c.</hi> 1 Tim. 4.1. Now the Spirit ſpeaketh expreſly, <hi>that in the latter times ſome ſhall depart from the faith, giving heed to ſeducing ſpirits, &amp;c.</hi> The ſpirit ſpeaketh that the Word ſpea<g ref="char:EOLhyphen"/>keth: for the ſpirit of God endicted the Scriptures, 2 <hi>Pet.</hi> 1.21. <hi>Epheſ.</hi> 6.17. Then try all motions or perſwaſions by the Word. <hi>Eſay</hi> 8.20. <hi>To the Law, and to the Teſtimony: if they ſpeak not according to this word, it is becauſe there is no light in them</hi> Therefore when <hi>Peter</hi> would have perſwaded Chriſt from ſuf<g ref="char:EOLhyphen"/>fering: Chriſt would not be led by that ſpirit; but ſaith, <hi>Get thee behind me Satan,</hi> becauſe it was contrary to the Scripture. So the when the Diſciples would command fire from Heaven to conſume the <hi>Samaritans,</hi> Chriſt rejects their motion, and told them, <hi>they knew not what ſpirit they were led by,</hi> becauſe it was contrary to the Word of God; which bids, <hi>Avenge not
+<pb n="5" facs="tcp:159786:6"/>your ſelves, but give place unto wrath.</hi> Therefore if any ſhall perſwade you to ſeperate from the people of God, or the Or<g ref="char:EOLhyphen"/>dinances of God; know this perſwaſion comes not from him that calleth you (as <hi>Paul</hi> told the <hi>Galathians,</hi> when they were ſeduced from the truth they had formerly walked in, <hi>Gal.</hi> 5.1, 8.) therefore to be rejected, becauſe it is contrary to the Scrip<g ref="char:EOLhyphen"/>tures. <hi>Heb.</hi> 10.25. <hi>Not forſaking the aſſembling your ſelves to<g ref="char:EOLhyphen"/>gether, as the manner of ſome is,</hi> 1 <hi>John</hi> 2.9. <hi>They went out from us, becauſe they were not of us, &amp;c.</hi>
+            </p>
+            <p>If any ſhall perſwade you from the publike and faithfull Mi<g ref="char:EOLhyphen"/>niſtery of the Word, reject it, for it is a ſpirit of errour, 1 <hi>Joh.</hi> 4.6. <hi>We are of God: he that knoweth God heareth us: hee that is not of God, heareth us not: hereby wee know the ſpirit of truth, and the ſpirit of errour.</hi>
+            </p>
+            <p>So if any ſhall perſwade you from the Sacrament, it is not from the ſpirit of God, but of errour: <hi>for Chriſt commands me to do this in remembrance of him.</hi>
+            </p>
+            <p>So if any ſhall perſwade you from praying, telling you, God hath decreed what he will do, and you cannot change the mind of God not alter his decree by your prayers; and ſo from cra<g ref="char:EOLhyphen"/>ving a bleſſing on the creatures, or from giving thanks after meat: know, this is not Gods ſpirit, but from Satan. There<g ref="char:EOLhyphen"/>fore ſay to ſuch as Chriſt to <hi>Peter, Get thee behinde me Satan, thou art an offence to me:</hi> for theſe motions are contrary to theſe Scriptures, 1 <hi>Theſſ.</hi> 5.17. <hi>James</hi> 1.5. <hi>Matth.</hi> 7.7. to 12. 1 <hi>Tim</hi> 4.4, 5. <hi>Deut.</hi> 8.10. <hi>When thou haſt eaten and filled thyſelf: thou ſhalt bleſſe the Lord thy God, &amp;c.</hi>
+            </p>
+            <p>Q. 3. <hi>Then may I be led, with every one that brings Scri<g ref="char:EOLhyphen"/>pture.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, not always, for none are readier to produce Scri<g ref="char:EOLhyphen"/>ptures then ſeducers.</p>
+            <p>Q. <hi>How then ſhall I know the difference?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Obſerve theſe two rules to know deceivers by.</p>
+            <p>Firſt, thoſe that are deceivers, they wil practiſe many things, they have no rule from Scripture for: as the old Prophet, 1 <hi>Kings</hi> 13. had no rule from Scripture to cauſe the young Prophet to eat and drink, but a pretended revelation.</p>
+            <pb n="6" facs="tcp:159786:7"/>
+            <p>So what warrant out of Scripture have ſome to deny the children of believers Baptiſme. So what Scripture have any for crying down the publike Miniſtery of the Word of God, to cry down praying and ſinging of Pſalms in the publick: what Scripture have any to raile againſt the Parliament and Synod, whereas <hi>Michael</hi> the <hi>Archangell</hi> durſt not raile againſt the Devill, but ſaid, <hi>The Lord rebuke thee, Jude</hi> 9. What Scrip<g ref="char:EOLhyphen"/>ture have any to cry downe Superiority and Inferiority, that neither Magiſtrates, Maſters, nor Fathers ſhall command thoſe that are under them to ſerve the Lord, contrary to theſe Scri<g ref="char:EOLhyphen"/>ptures. 2 <hi>Chron.</hi> 33.16. <hi>Manuſſes commanded all Judah to ſerve the Lord God of Iſraell,</hi> ſo did <hi>Joſiah,</hi> 2 <hi>Chron.</hi> 34.33. <hi>He made all Iſraell to ſerve the Lord their God.</hi> So <hi>Gen.</hi> 18.19. <hi>I know Abraham that he will command his children and his hou<g ref="char:EOLhyphen"/>ſhold after him, that they ſhall keep the ways of the Lord, Joſh.</hi> 24.15. <hi>Luke</hi> 14.25.</p>
+            <p>But ſecondly, if they ſeem to bring Scripture, try whether that ſence they give of the Scripture they bring, do not contra<g ref="char:EOLhyphen"/>dict other Scriptures, if it do, reject it; it comes from the ſpi<g ref="char:EOLhyphen"/>rit of errour. The Devill when hee tempted Chriſt brought Scripture out of <hi>Pſal.</hi> 91.12. but it was directly againſt ano<g ref="char:EOLhyphen"/>ther Scripture, as hee applyed it, as you may ſee, <hi>Deut.</hi> 6.16. which was cited by our Saviour. <hi>Thou ſhalt not tempt the Lord thy God,</hi> as ſome would have us tempt God in neglecting the means; as heating, praying the Sacraments, but it comes from the ſame ſpirit as tempted Chriſt. So ſome that are contentious will bring, <hi>Jude</hi> 3. and <hi>Matth.</hi> 11.12. <hi>Contend for the faith. The violent take it by force.</hi> But as they apply them, they plain<g ref="char:EOLhyphen"/>ly contradict other Scriptures, as <hi>Philip.</hi> 2.3. <hi>Let nothing be d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne through contention, or vain-glory,</hi> 2 <hi>Tim.</hi> 2.23. The holy Ghoſt bids us to <hi>avoid ſuch queſtions as ingender ſtrife, For the ſervant of the Lord muſt not ſtrive: but be gentle unto all men, apt to teach, patient, &amp;c.</hi> ſo <hi>Titus</hi> 3.9. 1 <hi>Cor.</hi> 11.16. <hi>If any man be contentious we have no ſuch cuſtome, neither the Chur<g ref="char:EOLhyphen"/>ches of God, Chap.</hi> 14.33. God is not the author of tumult or unqu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etneſſe: but of peace in all the Churches of the Saints: therefore contentious ſpirits are not from <hi>God, but are earthly,
+<pb n="7" facs="tcp:159786:7"/>ſenſuall and devilliſh, James</hi> 3.14, 15. Therefore, if you have bitter envying and ſtrife in your hearts, rejoyce not, neither be lyers againſt the truth, ſaith the ſpirit of God: But as many as are led by the ſpirit and Word of God, they are the ſonnes of God.</p>
+            <p n="2">2 Another way to try the Spirits may be this: Thoſe mo<g ref="char:EOLhyphen"/>tions or perſwaſions that are pleaſing to the fleſh, and take moſt with naturall men, are not from the ſpirit of God, but from Satan, for the ſpirit luſteth againſt the fleſh, and the fleſh luſteth againſt the Spirit, for theſe are contrary the one to the other, <hi>Gal</hi> 5.17. 1 <hi>Cor.</hi> 2.14. <hi>The naturall man cannot receive the things that are of God.</hi> Obſerve then from whence theſe motions come, that tend to the neglect of the Sabboth, and of the means of grace, and caſting off the Law as no rule to walke by: and would not be under command of ſuperiours, but would have the liberty of their conſcience, to doe or hold what they liſt. Theſe are pleaſing to the fleſh, and are received and imbraced by meer naturall men, and therefore cannot be of the ſpirit of God, and to be rejected as erronious and devilliſh.</p>
+            <p>What ſpirit, think you, were they led by in <hi>Mal.</hi> 3.13, 14. who ſaid, <hi>It was in vain to ſerve God, and what profit is it that we have kept his Ordinances, and that we have walked mourn<g ref="char:EOLhyphen"/>fully before him?</hi> and is not this ſpirit among us ſtill, that dare thus to ſpeak againſt God, for ſo God chargeth them, and what is it but to charge the onely wiſe God, who is wiſdome itſelfe, with folly, in ordaining and ſetting up Ordinances in his Church, that are of no profit: therefore conſider it well, and be not led by ſuch ſpirits, leaſt you be found fighters againſt God. But thoſe motions that moves you to uſe and reve<g ref="char:EOLhyphen"/>rence all Gods Ordinances, and to watch over your hearts and wayes, to ſanctifie the Sabboth, to mortifie ſin, to faſt and pray and give thanks for every mercy, to walk according to the law, and word of God in all things that moves to love, and peace, and holineſſe, and ſuch like: Quench not theſe motions, but entertain, obey, and follow, and be led by them, for they are the motions of the Spirit of God, and as many as are led by the ſpirit of God, they are the ſonnes of God. Now the Spirit
+<pb n="8" facs="tcp:159786:8"/>bids you to ſtand faſt in the truth you have been taught, and be not like children toſſed to and fro with every winde of Doctrine, by the cunning craftineſſe of men, whereby they ly in wait to deceive. <hi>Epheſ.</hi> 4.14. But hold faſt the form of words yee have been taught. 2 <hi>Tim.</hi> 1.13. So if any ſhall ſay, Lo here is Chriſt in the deſart, believe it not: if they ſay he is in the ſecret chambers, goe not after them, <hi>Mat.</hi> 24.26. Nay, the Spirit of God bids you to marke them that cauſe diviſions and offences among you, contrary to the Doctrine that yee have learned, and avoid them, <hi>Rom.</hi> 16.17. Now if you obey theſe and be led by them, the ſame ſpirit will witneſſe with you, that you are the ſonnes of God, <hi>Rom.</hi> 8.16. For as many as are led by the Spirit of God, they are the ſons of God, but if you will not obey and be led by theſe motions and directions of the Spi<g ref="char:EOLhyphen"/>rit of God, then you reſiſt the Spirit of God as thoſe in <hi>Act.</hi> 7.57. Take heed of ſinning againſt the Spirit of Ood, conſi<g ref="char:EOLhyphen"/>der the words of our Saviour, <hi>Mar.</hi> 3.28. <hi>All manner of ſins and blaſphemies ſhall be forgiven to the ſonnes of men, but he that ſins againſt the Holy Ghoſt ſhall never be forgiven:</hi> Therefore I ſay again, take heed of reſiſting the motions of the ſpirit of God,</p>
+            <p>
+               <hi>Ob.</hi> The Apoſtle bids us <hi>try all things, and keep that which is good,</hi> 1 <hi>Theſ.</hi> 3.21.</p>
+            <p>
+               <hi>Anſ.</hi> But he bids you in the next words, to <hi>avoid all ap<g ref="char:EOLhyphen"/>pearance of evill,</hi> ver. 22. ſo you ſee thoſe things that have but an appearance of evill, and wherein is any danger we muſt avoid.</p>
+            <p>
+               <hi>Ob.</hi> But they teach many ſweet truths.</p>
+            <p>
+               <hi>An.</hi> Therein lies the more danger: So did the falſe Pro<g ref="char:EOLhyphen"/>phets come in the name of the Lord, ſaying, <hi>Thus ſaith the Lord,</hi> as you may ſee, <hi>Jer.</hi> 23.17, 28, 31. but with that they mixed their own dreams, ſo the falſe Apoſtles transforme themſelves into the Miniſters of righteouſneſſe, ſo the Devill when hee tempted Chriſt, brings a ſweet and comfortable truth, but un<g ref="char:EOLhyphen"/>der it there was hid poyſon, which Chriſt diſcerned, and there<g ref="char:EOLhyphen"/>fore rejected it, ſo you ſhall have ſome now will teach: Hee that exalts Chriſt higheſt, and lays man loweſt, is in the right,
+<pb n="9" facs="tcp:159786:8"/>(and this we doe ſay they) now this is a ſweet truth, who dares deny-it? but there is a Colloquintida hid under it, there is death in the p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, for when they explain it, it is this Chriſt hath done that is need<g ref="char:EOLhyphen"/>full for our ſalvation it's truth, then where's the danger? why here. then we need do nothing: true, not in way of juſtification, but in way of ſanctification and obedience, and out of love, we muſt heare and pray, confeſſe our ſins, watch over our hearts and ways, &amp;c. you ſee there may be danger hid under the beſt Doctrines, if they be not explained. Now if you were to buy ſome ſugar, and one ſhould tell you there's a dainty ſweet ſugar at ſuch a place, but they that ſell it, many times, mix ſome rats bain with it, and it can hardly be diſcerned either by ſight or taſte, being both white and ſweet, but they that eat it, are poyſoned by it, would you buy there to try it, or would you not rather goe buy at ſome other place where you heare a better report, and where hath been no ſuch danger? I ſuppoſe you would. And would you be more carefull to preſerve your body from poyſoning then your ſoule, therefore <hi>take heed how you heare,</hi> ſaith Chriſt. <hi>Beware of the leaven of the Phariſees,</hi> that is their Doctrine, <hi>for a little leaven leavens the whole lump.</hi>
+            </p>
+            <p>
+               <hi>Ob.</hi> Another main allegation is: They tell us we have been led in an ignorant and blinde way, but if God open our eyes, as hee hath done theirs, and we ſaw that as they now ſee, we would be of another minde, and doe as they doe: and the way to have our eyes opened is to forſake our Antichriſtian Miniſters, and come and join with them in their meetings.</p>
+            <p>
+               <hi>Anſ.</hi> I confeſſe this muſt needs take with people, for who would willingly be led in a blinde way, but deſires to ſee and know as much as may be, therefore the Devill that old ſerpent knowing this, makes it his main argument to prevaile with <hi>Eve</hi> to eat of the for<g ref="char:EOLhyphen"/>bidden fruit, telling her, if ſhee would eat of that fruit which God had forbidden, then her eyes ſhould be opened, and ſhee ſhould be as God knowing good and evill: this did ſo take with her; that ſhee lookt upon the fruit, and ſaw it was pleaſant, and much to be deſired, being it would be a means to open her eyes, and bring her to that knowledge, ſhee did eat of it, but it brought death upon her and all her poſterity: ſo the devill ſeeing this argument prevailed then, makes uſe of it ſtill. So he did in the old Prophet, 1 <hi>Kings</hi> 11, ſo in <hi>Zedekiab,</hi>
+               <pb n="10" facs="tcp:159786:9"/>ſo in the Phariſees who accuſed Chriſts Diſciples of ignorance, <hi>John</hi> 7.49. yet boaſting themſelves of their own light, as the falſe Apoſtles did, but ſaith <hi>Paul,</hi> 1 <hi>Cor.</hi> 8.12. <hi>He that thinks he knows any thing, knows nothing as he ought to know,</hi> 2 <hi>Cor,</hi> 10.18. <hi>He that commendeth himſelfe is not approved, but he whom the Lord approveth,</hi> therefore avoid ſuch, you heare this is no new thing, but an old bait, therefore be not troudled at it.</p>
+            <p>
+               <hi>Ob.</hi> But I cannot anſwer their Arguments they are ſo deep, muſt not I then be fain to yield to them.</p>
+            <p>
+               <hi>A.</hi> By no means, if you will be led by the ſpirit of God, which bids you avoid them, go not after them, believe them not, <hi>Mat.</hi> 24.26 Again, the ſpirit of God bids you, Remember how thou haſt recei<g ref="char:EOLhyphen"/>ved and heard, and hold faſt and repent, &amp;c. <hi>Revel.</hi> 3.3. and hold faſt the form of wholſome words, that you have bin taught, 2 <hi>Tim.</hi> 1.3. And if any man, if an Apoſtle, or an Angell from heaven teach <hi>any other Goſpell then you have bin taught, let him be accurſed, Gal.</hi> 1.8, 9. The Church of <hi>Thyatira</hi> had a ſeducing Propheteſſe among them: that was ſo deep in her doctrine that many could not underſtand her, much leſſe anſwer her arguments: but mark what counſell the ſpirit of God gives them, and as <hi>Revel.</hi> 2.24, 25. <hi>But unto you I ſay, As many as have not known this doctrine, neither the depth of Satan, as they ſpeak, I will put upon you no other burthen. But that which you have al<g ref="char:EOLhyphen"/>ready, Hold faſt till I come. Let him that hath an eare heare what the ſpirit ſaith unto the Churches,</hi> Verſe 29. <hi>For as many as are led by the Spirit of God, they are the ſons of God.</hi> In <hi>Pſal.</hi> 27.8. ſaith <hi>David,</hi> When thou ſaydſt, <hi>Seek my face, my heart anſwered, Lord, thy face will I ſeek.</hi> Now if the Lord hath given us ſuch hearts, that when his ſpirit in his word ſhall bid us do this: but doe not that: goe this way, but go not that way: I ſay, if our hearts anſwer, Lord, I will doe, what thou biddeſt me doe, and go that way thou wilt lead me: then wee ſhall not only have the ſpirit of God to witneſſe with our ſpirits, that we are the children of God. <hi>Rom</hi> 8.16. <hi>But the ſpirit will ſeal unto us our aſſurance of the love of God. Epheſ.</hi> 4.39. which is the firmeſt and ſtrongeſt aſſurance that poſſible can be made, &amp;c. <hi>There<g ref="char:EOLhyphen"/>fore, I beſeech you brethren, by the comming of our Lord Jeſus Chriſt,</hi> and our aſſurance in him, <hi>that ye be not ſhaken in minde, nor be trou<g ref="char:EOLhyphen"/>bled, neither by ſpirit, nor by word, nor by letter as from us,</hi> 2 <hi>Theſſ.</hi> 2.2.
+<pb n="11" facs="tcp:159786:9"/>But I have met with an allegation or two of theirs, whereby they deceive and draw many to their meetings, which I will ſet down and anſwer very briefly.</p>
+            <p>The firſt is this: they perſwade people, that the word delivered in private, and by private men of their way is more ſweet, and they can profit more by it; then by that which is taught in the publike Mini<g ref="char:EOLhyphen"/>ſtery: to which I give a twofold anſwer.</p>
+            <p>
+               <hi>Anſ.</hi> Though it be as truly and as profitably taught in publike in publike (nay more truly and profitably) yet it ſeems more ſweet to you in your private way and manner, becauſe you have it not in ſo lawfull a way: for the holy ghoſt ſaith, <hi>Prov.</hi> 9.17. <hi>Stoln waters are ſweet, and bread that is eaten in ſecret is pleaſant: and the forbidden fruit was more ſweet and pleaſant to Eve, then all the fruits in the Garden: which God allowed her to eat of. Gen.</hi> 2.9, 16, 17. <hi>Chap.</hi> 3.6.</p>
+            <p>And whereas you ſay, you cannot profit more in that way, I an<g ref="char:EOLhyphen"/>ſwer: herein your hearts do much deceive you, for that people that profits by the word, they grow thereby not only in knowledge, for ſo Hypocrites: nay, Devils may doe, but they that profit indeed by the word: grow in faith and love.</p>
+            <p>They grow more humble and low in their owne eyes, appre<g ref="char:EOLhyphen"/>hending themſelves the greateſt of ſinners and the leaſt of Saints: they think every Chriſtian better then themſelves, <hi>Phil.</hi> 2.3. and that others know more of God then they doe: as <hi>Elyhu, Job</hi> 32 6. And <hi>Agg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, Prov.</hi> 30.2, 3. So they grow more charitable, more holy, more conſcionable, more obedient, more patient, more like to Jeſus Chriſt, then a people profit indeed. But when people grow more proud and highly conceited of themſelves, thinking better of them<g ref="char:EOLhyphen"/>ſelves then of others, boaſting themſelves of their own light: count<g ref="char:EOLhyphen"/>ing all others that go not their way to be blind and ignorant creatures to them: beſides when they grow more uncharitable, more cenſo<g ref="char:EOLhyphen"/>rious, more unconſcionable, more impatient, more unlike to Jeſus Chriſt: Can any believe that theſe profit ſo much in their meetings: no, no, they meerly deceive themſelves and others.</p>
+            <p>Again, they would perſwade people that we are not able to mayn<g ref="char:EOLhyphen"/>tain what we teach or hold: for they have offered to reaſon with out Miniſters or private men, but they cannot get us to it.</p>
+            <p>For anſwer: ſome of you have been reaſoned with and confuted
+<pb n="12" facs="tcp:159786:10"/>to; though you will not acknowledge it: but if any have refuſed, it is not becauſe we cannot mayntaine the truth we hold, but becauſe you are a perverſe people, that will not yield to the true meaning of the ſpirit of God in the Scriptures: but will make all Scriptures to ſpeak what they would have them to ſpeak, to mayntain what they hold and practiſe.</p>
+            <p>And then to what purpoſe is it for any to reaſon with ſuch as will heare no reaſon: againe, ſome of them have not ſtuck to deny the truth of ſome Scriptures: &amp; what wiſe man would reaſon with ſuch.</p>
+            <p>Again, it hath bin their practice to caſt aſperſions upon thoſe that do oppoſe, and will not yield to what they ſay, ſuch ſhall hardly eſcape without ſome blot: now when we ſee men ſo perverſe and obſtinate in an erroneous way, we are commanded to avoid them, <hi>Rom,</hi> 16.17. <hi>Mat.</hi> 15.12, 13, 14. <hi>Revel.</hi> 21.11. <hi>He that is unjuſt let him be unjuſt ſtill and he that is filthy let him be filthy ſtill:</hi> ſo hee that is erroneous and obſtinate, let them be erroneous and obſtinate ſtill: if they will not be reclaimed, though wee much deſire and pray for their return: and herein we have not only Gods comand, but his example, <hi>Pſal.</hi> 81. <hi>O th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> my people would have harkned unto me, and have walked in my ways: but they would not he are, nor regard; ſo I gave them up to their own he arts luſt: and they walked in their own counſels, &amp;c.</hi>
+            </p>
+            <p>Therefore you ſee their fair gloſſes and pretences, whereby they go about to delude people, are but fig leaves and gilded ſhews: if they be well examined: therefore take heed and be not deceived, nor drawn away by them.</p>
+            <p>
+               <hi>Ob.</hi> But it will be further objected, You bring many Scriptures to perſwade people to ſtand faſt in the truth they have been taught, but they have not been taught the truth, but have been taught in a falſe and blinde way, by your falſe Miniſters.</p>
+            <p>
+               <hi>Anſ.</hi> It is a very falſe and ſcandalous imputation, caſt upon the faithfull Miniſters of Jeſus Chriſt, for have they not taught us Jeſus Chriſt, that we are freely juſtified and ſaved by him alone, without any thing of our ſelves, and that there is no other name given where<g ref="char:EOLhyphen"/>by we can be ſaved, but by the name of Jeſus Chriſt, that hee is our wiſdom, our righteouſneſſe, our ſanctification and redemption, that we are perfect and compleat in him, and other foundation then this can no man lay.</p>
+            <pb n="13" facs="tcp:159786:10"/>
+            <p>With what face then can any man ſay, we have been taught in an ignorant and blinde way, except they will deny the Scriptures, as ſome have been ready to doe. And that this we have been taught by our faithfull Miniſters, our own conſciences can witneſſe, beſides their books now extant can teſtifie, as Doctor <hi>Sibs</hi> in his Book on the <hi>Canticles,</hi> and of <hi>Chriſt manifeſt in the fleſh,</hi> ſo <hi>Calvin,</hi> and <hi>Perkins,</hi> and <hi>Hooker,</hi> and an hundered more: therefore I ſay again, ſtand faſt in the truth yee have been taught.</p>
+            <p>
+               <hi>Ob.</hi> I but ſay they, your Miniſters are Antichriſtian, for they were called by an Antichriſtian power, therefore it is not lawfull to heare them, &amp;c.</p>
+            <p>
+               <hi>Anſ.</hi> That muſt be proved firſt which you ſay, and I think they have as lawfull a calling as your teachers have, and more lawfull too. But if it be granted, they were called by an Antichriſtian power, It is a poor argument to draw people from the miniſtry of the word, as if a man ſhould refuſe good and wholſome meat, becauſe the cook that dreſt it was made cook by a Member of Antichriſt, or as if one ſhould throw away the deeds of his land, becauſe the Clerke that writ them came into his Office by a corrupt Judge. They that ſhould doe ei<g ref="char:EOLhyphen"/>ther, I ſhould think it were rather out of malice to their perſons then any thing elſe, I deſire it be not ſo in theſe objectors, but I would aske them two or three queſtions.</p>
+            <p>
+               <hi>Q.</hi> 1. Firſt, whether have Miniſters their principall calling from God or from men?</p>
+            <p>
+               <hi>Q.</hi> 2. Whether that corruption in their calling from men, can diſ<g ref="char:EOLhyphen"/>anul their calling from God?</p>
+            <p>
+               <hi>Q.</hi> 3. Whether that corruption in thoſe that gave them their out<g ref="char:EOLhyphen"/>ward calling, can corrupt the word of God? If it can (as it cannot) why then were not <hi>Martin Luthers</hi> Works rejected, but imbraced, who had a far more corrupt calling then our Miniſters had. And why are thoſe words in <hi>Numb.</hi> 23.21. <hi>The Lord ſeeth no iniquity in Jacob, nor tranſgreſſion in Iſrael,</hi> why, I ſay, are theſe words ſo im<g ref="char:EOLhyphen"/>braced, by thoſe that object againſt our Miniſters, ſeeing they were ſpoken by a falſe Prophet and Sorcerer, if the ſin of the perſon could pollute the word. Beſides, I would have them ſhew ſome rule from the Scriptures, that we ought to refuſe to heare ſuch Miniſters, be<g ref="char:EOLhyphen"/>cauſe of ſome corruption in them, or in their calling. I am ſure Chriſt
+<pb n="2" facs="tcp:159786:11"/>gave no ſuch rule, neither by precept nor example whom we ought to follow.</p>
+            <p>But this is a meer ſtratagem of the devill, to take people of from heating the publike Miniſtry of the word of God, that he may the better prevail to draw them to errours and hereſies, yea to Atheiſme. Therefore I beſeech you brethren &amp; ſiſters in the Lord be not drawn away by theſe deluſions from the publike and faithfull Miniſtry of the Word, but reverence it, imbrace, follow and defend it to the ut<g ref="char:EOLhyphen"/>moſt of your powers, as the onely ordinary means which God hath ordained for the ſaving your ſouls, <hi>Rom.</hi> 10.14. to 18. 1 <hi>Pet.</hi> 2.1, 2. <hi>Jam.</hi> 1.21. If any teach you otherwiſe, and conſent not to the whol<g ref="char:EOLhyphen"/>ſome words, even the words of our Lord Jeſus Chriſt, and to the Do<g ref="char:EOLhyphen"/>ctrine which is according to godlineſſe, hee is proud knowing no<g ref="char:EOLhyphen"/>thing, but doating about queſtions and ſtrife of words, whereof com<g ref="char:EOLhyphen"/>meth envie, ſtrife, railings, evill ſurmiſings, perverſe diſputings of men of corrupt mindes, &amp;c. 1 <hi>Tim.</hi> 6.3, 4. therefore avoid ſuch, and be not led by them, for as many as are the ſons of God, they are led by the ſpirit of God, therefore I ſay again, ſtand faſt.</p>
+            <p>Marke what comfort and encouragement Chriſt gives to poore weak Chriſtians <hi>Rev.</hi> 3.8, 10, 11, 12. I know thy works, behold. I have ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before thee an open doore (in the miniſtry of the word) which no man can ſhut (when they have done all they can, they ſhall not ſhut this door) and marke what follows, for thou haſt a little ſtrength, and haſt kept my word, and haſt not denyed my name, <hi>ver.</hi> 10. Be<g ref="char:EOLhyphen"/>cauſe thou haſt kept the word of my patience, I will alſo keep thee from the hower of temptation, which ſhall come upon all the world to try them that dwell upon the earth (and I am perſwaded this is that hower of tryall, therefore marke what follows, <hi>ver.</hi> 11, 12. Behold, I come quickly, hold that faſt thou haſt, let no man take thy Chown, (but if you let goe your hold and bee drawn away, you loſe your Crown, but if you ſtand faſt with that little ſtrength thou haſt) marke, here is yet more comfort for thee, <hi>ver.</hi> 12. Him that overcommeth will I make a pillar in the Temple of my God, and he ſhall goe no more out, and I will write upon him the name of my God, &amp;c. marke this you weake Chriſtians, if you ſtand faſt, your weakneſſe ſhall not hin<g ref="char:EOLhyphen"/>der your happineſſe. Now the God of truth and peace, guide us in the truth, and in able us to ſtand faſt in the ſame, to the end. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
